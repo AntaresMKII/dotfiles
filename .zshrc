@@ -106,3 +106,5 @@ alias nv="nvim"
 alias spss="~/IBM/SPSS/bin/stats"
 
 alias config="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
+
+alias _="sudo"
